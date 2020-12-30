@@ -8,6 +8,8 @@ public class SeleniumTest {
 	public void BrowseAutomation()
 	{
 		System.out.println("BrowseAutomation");
+		System.out.println("BrowseAutomation1");
+		System.out.println("BrowseAutomation2");
 	}
 	@Test
 	public void elemetsUI()
